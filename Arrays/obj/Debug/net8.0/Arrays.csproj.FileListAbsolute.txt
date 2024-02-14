@@ -1,0 +1,14 @@
+C:\Stanislav9a\Zadachi za masivi\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Stanislav9a\Zadachi za masivi\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Stanislav9a\Zadachi za masivi\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Stanislav9a\Zadachi za masivi\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Stanislav9a\Zadachi za masivi\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Stanislav9a\Zadachi za masivi\Arrays\obj\Debug\net8.0\ref\Arrays.dll

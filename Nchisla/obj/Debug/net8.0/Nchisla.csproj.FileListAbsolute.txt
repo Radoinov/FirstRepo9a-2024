@@ -1,0 +1,4 @@
+C:\Stanislav9a\Zadachi za masivi\Nchisla\obj\Debug\net8.0\Nchisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanislav9a\Zadachi za masivi\Nchisla\obj\Debug\net8.0\Nchisla.AssemblyInfoInputs.cache
+C:\Stanislav9a\Zadachi za masivi\Nchisla\obj\Debug\net8.0\Nchisla.AssemblyInfo.cs
+C:\Stanislav9a\Zadachi za masivi\Nchisla\obj\Debug\net8.0\Nchisla.csproj.CoreCompileInputs.cache
